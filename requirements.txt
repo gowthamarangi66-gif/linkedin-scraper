@@ -1,0 +1,4 @@
+-e streamlit
+requests
+beautifulsoup4
+openpyxl
